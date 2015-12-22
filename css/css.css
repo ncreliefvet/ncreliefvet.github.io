@@ -2,5 +2,5 @@
   font-family: 'Lato';
   font-style: italic;
   font-weight: 400;
-  src: local('Lato Italic'), local('Lato-Italic'), url(http://fonts.gstatic.com/s/lato/v11/PLygLKRVCQnA5fhu3qk5fQ.woff2) format('woff2');
+  src: local('Lato Italic'), local('Lato-Italic'), url(https://fonts.googleapis.com/css?family=Lato) format('woff2');
 }
