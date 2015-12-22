@@ -4,7 +4,7 @@ body {
     font-size: 12px;
     color: #868686;
     line-height: 18px;
-    background-image: url('https://ncreliefvet.github.io/img/dimension.png');
+    background-image: url('https://ncreliefvet.com/img/dimension.png');
     background-color: #cbcbcb;
     margin: 0;
     padding: 0;
@@ -152,7 +152,7 @@ code {
 
 .info {
     color: #478BBF;
-    background: #DCEFF5 url('https://ncreliefvet.github.io/img/info.png') 12px 9px no-repeat;
+    background: #DCEFF5 url('https://ncreliefvet.com/img/info.png') 12px 9px no-repeat;
     border: 1px solid #B8E7F5;
     margin: 15px 0;
     padding: 8px 10px 8px 37px;
@@ -160,7 +160,7 @@ code {
 
 .success {
     color: #3F9153;
-    background: #D7F7DF url('https://ncreliefvet.github.io/img/success.png') 12px 9px no-repeat;
+    background: #D7F7DF url('https://ncreliefvet.com/img/success.png') 12px 9px no-repeat;
     border: 1px solid #A3F7B8;
     margin: 15px 0;
     padding: 8px 10px 8px 37px;
@@ -168,7 +168,7 @@ code {
 
 li.success {
     color: #3F9153;
-    background: #D7F7DF url('https://ncreliefvet.github.io/img/success.png') 4px 6px no-repeat;
+    background: #D7F7DF url('https://ncreliefvet.com/img/success.png') 4px 6px no-repeat;
     border: 1px solid #A3F7B8;
     margin: 15px 0;
     padding: 0 0 0 22px;
@@ -176,7 +176,7 @@ li.success {
 
 .error {
     color: #C24848;
-    background: #FFD6D6 url('https://ncreliefvet.github.io/img/error.png') 12px 9px no-repeat;
+    background: #FFD6D6 url('https://ncreliefvet.com/img/error.png') 12px 9px no-repeat;
     border: 1px solid #FFC2C2;
     margin: 15px 0;
     padding: 8px 10px 8px 37px;
@@ -184,14 +184,14 @@ li.success {
 
 .warning {
     color: #CF9E00;
-    background: #FAF2D7 url('https://ncreliefvet.github.io/img/warning.png') 12px 9px no-repeat;
+    background: #FAF2D7 url('https://ncreliefvet.com/img/warning.png') 12px 9px no-repeat;
     border: 1px solid #FAE8AF;
     margin: 15px 0;
     padding: 8px 10px 8px 37px;
 }
 
 ul.arrow li {
-    background-image: url('https://ncreliefvet.github.io/img/arrow.gif');
+    background-image: url('https://ncreliefvet.com/img/arrow.gif');
     background-position: 0 center;
     background-repeat: no-repeat;
     line-height: 24px;
@@ -201,7 +201,7 @@ ul.arrow li {
 }
 
 ul.checklist li {
-    background-image: url('https://ncreliefvet.github.io/img/checklist.png')!important;
+    background-image: url('https://ncreliefvet.com/img/checklist.png')!important;
     background-position: 0 center;
     background-repeat: no-repeat;
     line-height: 24px!important;
@@ -217,7 +217,7 @@ ul.circle {
 
 ul.circle li {
     line-height: 16px;
-    background-image: url('https://ncreliefvet.github.io/img/paw.png');
+    background-image: url('https://ncreliefvet.com/img/paw.png');
     background-repeat: no-repeat;
     background-position: 0 5px;
     margin: 0;
@@ -243,7 +243,7 @@ ol li {
 }
 
 blockquote {
-    background-image: url('https://ncreliefvet.github.io/img/quote.png');
+    background-image: url('https://ncreliefvet.com/img/quote.png');
     background-repeat: no-repeat;
     background-position: 0 1px;
     font-style: italic;
@@ -356,7 +356,7 @@ small {
 }
 
 a.button-size1 {
-    background: transparent url('https://ncreliefvet.github.io/img/bg_button-size1_a.png') no-repeat scroll top right;
+    background: transparent url('https://ncreliefvet.com/img/bg_button-size1_a.png') no-repeat scroll top right;
     color: #fff;
     display: block;
     float: left;
@@ -370,7 +370,7 @@ a.button-size1 {
 }
 
 a.button-size1 span {
-    background: transparent url('https://ncreliefvet.github.io/img/bg_button-size1_span.png') no-repeat;
+    background: transparent url('https://ncreliefvet.com/img/bg_button-size1_span.png') no-repeat;
     display: block;
     line-height: 18px;
     padding: 9px 17px 15px 36px;
@@ -382,7 +382,7 @@ a.button-size1:active span {
 }
 
 a.button-size2 {
-    background: transparent url('https://ncreliefvet.github.io/img/bg_button-size2_a.png') no-repeat scroll top right;
+    background: transparent url('https://ncreliefvet.com/img/bg_button-size2_a.png') no-repeat scroll top right;
     color: #fff;
     display: block;
     float: left;
@@ -396,7 +396,7 @@ a.button-size2 {
 }
 
 a.button-size2 span {
-    background: transparent url('https://ncreliefvet.github.io/img/bg_button-size2_span.png') no-repeat;
+    background: transparent url('https://ncreliefvet.com/img/bg_button-size2_span.png') no-repeat;
     display: block;
     line-height: 18px;
     padding: 6px 0 10px 17px;
@@ -409,7 +409,7 @@ a.button-size2:active span {
 
 #container {
     width: 900px;
-    background-image: url('https://ncreliefvet.github.io/img/left-strip.jpg');
+    background-image: url('https://ncreliefvet.com/img/left-strip.jpg');
     background-repeat: repeat-y;
     background-position: left;
     background-color: #FFF;
@@ -494,7 +494,7 @@ a.button-size2:active span {
     top: 35px;
     left: -999em;
     z-index: 10;
-    background-image: url('https://ncreliefvet.github.io/img/dropmenu-bg.jpg');
+    background-image: url('https://ncreliefvet.com/img/dropmenu-bg.jpg');
     background-repeat: repeat-y;
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
@@ -516,7 +516,7 @@ a.button-size2:active span {
 }
 
 #menu li li:first-child {
-    background: url('https://ncreliefvet.github.io/img/border-nav.png')!important;
+    background: url('https://ncreliefvet.com/img/border-nav.png')!important;
     background-repeat: repeat-x!important;
     background-position: top!important;
 }
@@ -527,7 +527,7 @@ a.button-size2:active span {
     color: #fff;
     line-height: 18px;
     background-color: #33363a;
-    background: url('https://ncreliefvet.github.io/img/border-nav.png');
+    background: url('https://ncreliefvet.com/img/border-nav.png');
     background-repeat: repeat-x;
     background-position: bottom;
     margin: 0;
@@ -598,7 +598,7 @@ a.button-size2:active span {
 }
 
 .slide-type1 {
-    background-image: url('https://ncreliefvet.github.io/img/slide1-glow.png');
+    background-image: url('https://ncreliefvet.com/img/slide1-glow.png');
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -609,7 +609,7 @@ a.button-size2:active span {
 }
 
 .slide-type2 {
-    background-image: url('https://ncreliefvet.github.io/img/slide1-glow.png');
+    background-image: url('https://ncreliefvet.com/img/slide1-glow.png');
     background-repeat: no-repeat;
     background-position: left;
 }
@@ -620,7 +620,7 @@ a.button-size2:active span {
 }
 
 .slide-type3 {
-    background-image: url('https://ncreliefvet.github.io/img/slide3-glow.png');
+    background-image: url('https://ncreliefvet.com/img/slide3-glow.png');
     background-repeat: no-repeat;
     background-position: bottom center;
 }
@@ -645,7 +645,7 @@ a.button-size2:active span {
 }
 
 #slideprev {
-    background-image: url('https://ncreliefvet.github.io/img/left-arrow.png');
+    background-image: url('https://ncreliefvet.com/img/left-arrow.png');
     background-repeat: no-repeat;
     width: 13px;
     height: 20px;
@@ -657,7 +657,7 @@ a.button-size2:active span {
 }
 
 #slidenext {
-    background-image: url('https://ncreliefvet.github.io/img/right-arrow.png');
+    background-image: url('https://ncreliefvet.com/img/right-arrow.png');
     background-repeat: no-repeat;
     width: 13px;
     height: 20px;
@@ -765,7 +765,7 @@ a.button-size2:active span {
 .sidebar-left h4 {
     width: 201px;
     color: #fff;
-    background-image: url('https://ncreliefvet.github.io/img/sidebar-title-bg.jpg');
+    background-image: url('https://ncreliefvet.com/img/sidebar-title-bg.jpg');
     background-repeat: repeat-y;
     -webkit-border-top-right-radius: 6px;
     -webkit-border-bottom-right-radius: 6px;
@@ -779,7 +779,7 @@ a.button-size2:active span {
 .side-badge {
     width: 48px;
     height: 58px;
-    background-image: url('https://ncreliefvet.github.io/img/side-badge.png');
+    background-image: url('https://ncreliefvet.com/img/side-badge.png');
     background-repeat: no-repeat;
     float: right;
     margin: -56px 14px 0 0;
@@ -869,7 +869,7 @@ a.button-size2:active span {
 .page-title {
     width: 770px;
     height: 103px;
-    background-image: url('https://ncreliefvet.github.io/img/dogsilhouette5.png');
+    background-image: url('https://ncreliefvet.com/img/dogsilhouette5.png');
     background-repeat: no-repeat;
     float: left;
     margin: 0 0 28px;
@@ -893,14 +893,14 @@ a.button-size2:active span {
 }
 
 .twitted p.preLoader {
-    background: transparent url('https://ncreliefvet.github.io/img/loading-contact.gif') 1em center no-repeat;
+    background: transparent url('https://ncreliefvet.com/img/loading-contact.gif') 1em center no-repeat;
     margin: 0;
     padding: 1em 1em 1em 3em;
 }
 
 .twitted ul#twitter_update_list li {
     width: 220px;
-    background-image: url('https://ncreliefvet.github.io/img/circle.png');
+    background-image: url('https://ncreliefvet.com/img/circle.png');
     background-repeat: no-repeat;
     background-position: 0 17px;
     font-size: 11px;
@@ -944,7 +944,7 @@ a.button-size2:active span {
 ul.sidebar-list li {
     width: 220px;
     border-bottom: 1px solid #c5c5c5;
-    background-image: url('https://ncreliefvet.github.io/img/paw.png');
+    background-image: url('https://ncreliefvet.com/img/paw.png');
     background-repeat: no-repeat;
     background-position: 0 12px;
     line-height: 18px;
@@ -1014,7 +1014,7 @@ ul.sidebar-list li a:hover {
 .services-badge {
     width: 61px;
     height: 58px;
-    background-image: url('https://ncreliefvet.github.io/img/services-badge.png');
+    background-image: url('https://ncreliefvet.com/img/services-badge.png');
     background-repeat: no-repeat;
     float: right;
     margin: -20px 24px 20px 0;
@@ -1046,7 +1046,7 @@ ul.sidebar-list li a:hover {
     width: 217px;
     text-align: center;
     color: #fff;
-    background-image: url('https://ncreliefvet.github.io/img/bg-pricing.jpg');
+    background-image: url('https://ncreliefvet.com/img/bg-pricing.jpg');
     background-repeat: repeat-y;
     -webkit-border-top-left-radius: 8px;
     -webkit-border-top-right-radius: 8px;
@@ -1058,7 +1058,7 @@ ul.sidebar-list li a:hover {
 }
 
 .pricing-title {
-    background-image: url('https://ncreliefvet.github.io/img/pricing-line.png');
+    background-image: url('https://ncreliefvet.com/img/pricing-line.png');
     background-repeat: no-repeat;
     background-position: bottom;
 }
@@ -1257,7 +1257,7 @@ table td {
     width: 87px;
     height: 18px;
     color: #fff;
-    background-image: url('https://ncreliefvet.github.io/img/sidebar-title-bg.jpg');
+    background-image: url('https://ncreliefvet.com/img/sidebar-title-bg.jpg');
     background-repeat: repeat-y;
     -webkit-border-top-right-radius: 6px;
     -webkit-border-bottom-right-radius: 6px;
@@ -1273,7 +1273,7 @@ table td {
 .news-badge-left {
     width: 48px;
     height: 58px;
-    background-image: url('https://ncreliefvet.github.io/img/side-badge.png');
+    background-image: url('https://ncreliefvet.com/img/side-badge.png');
     background-repeat: no-repeat;
     cursor: pointer;
     float: left;
@@ -1290,7 +1290,7 @@ table td {
     height: 18px;
     color: #fff;
     text-align: right;
-    background-image: url('https://ncreliefvet.github.io/img/sidebar-title-right-bg.jpg');
+    background-image: url('https://ncreliefvet.com/img/sidebar-title-right-bg.jpg');
     background-position: right;
     background-repeat: repeat-y;
     -webkit-border-top-left-radius: 6px;
@@ -1307,7 +1307,7 @@ table td {
 .news-badge-right {
     width: 48px;
     height: 58px;
-    background-image: url('https://ncreliefvet.github.io/img/side-badge.png');
+    background-image: url('https://ncreliefvet.com/img/side-badge.png');
     background-repeat: no-repeat;
     cursor: pointer;
     float: right;
@@ -1327,7 +1327,7 @@ table td {
     color: #868686;
     text-decoration: none;
     margin-bottom: 1px;
-    background-image: url('https://ncreliefvet.github.io/img/filter-bg.gif');
+    background-image: url('https://ncreliefvet.com/img/filter-bg.gif');
     background-repeat: repeat-x;
     border: 1px solid #d9d9d9;
     -webkit-border-radius: 4px;
@@ -1355,7 +1355,7 @@ ul.filter {
 }
 
 li.active a {
-    background-image: url('https://ncreliefvet.github.io/img/filter-bg.gif');
+    background-image: url('https://ncreliefvet.com/img/filter-bg.gif');
     background-repeat: repeat-x;
     border: 1px solid #d9d9d9;
     -webkit-border-radius: 4px;
@@ -1461,7 +1461,7 @@ fieldset {
     font-size: 14px;
     font-family: Lato, arial, serif;
     font-style: italic;
-    background-image: url('https://ncreliefvet.github.io/img/contact-button.png');
+    background-image: url('https://ncreliefvet.com/img/contact-button.png');
     background-repeat: no-repeat;
     color: #fff!important;
     display: inline-block;
@@ -1488,7 +1488,7 @@ fieldset {
 }
 
 .loading {
-    background: url('https://ncreliefvet.github.io/img/loading-contact.gif') top left no-repeat;
+    background: url('https://ncreliefvet.com/img/loading-contact.gif') top left no-repeat;
     padding-left: 25px;
     color: #797979;
     float: left;
